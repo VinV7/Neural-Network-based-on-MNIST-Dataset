@@ -1,0 +1,3 @@
+matplotlib==3.9.1 #Used for plotting
+numpy==2.0.0 #Used for creating the code for the equations
+pandas==2.2.2 #Used for exploring NMIST_784 dataset
